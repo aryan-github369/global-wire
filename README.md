@@ -6,9 +6,9 @@ Global Wire is an Android news application which is developed in Java and has ma
 2. Real-time global news access
 3. Use of Postman API for best experience
 4. Categorised news content, based on user's preference
-5. Multiple sign-up/sing-in options
+5. Multiple sign-up/sign-in options
 6. Support of multimedia elements
-7. In-app detailed news browsing
+7. In-app news browsing
 
 ## Sign Up Page
 
